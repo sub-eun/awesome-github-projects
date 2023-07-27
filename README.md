@@ -13,3 +13,7 @@ https://github.com/x64dbg/x64dbg
 https://github.com/Mattiwatti/CyberEngineTweaks
 
 https://github.com/wbenny/mini-tor
+
+https://github.com/tandasat/SmmExploit
+
+https://github.com/tandasat/DdiMon 
